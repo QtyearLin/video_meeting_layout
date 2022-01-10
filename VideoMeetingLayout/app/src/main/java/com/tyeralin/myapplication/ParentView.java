@@ -126,7 +126,7 @@ public class ParentView extends RelativeLayout {
      * 4                            1 2 3  N
      */
 
-
+//结合changed 自己控制 child layout 
     @Override
     protected void onLayout(boolean changed, int l, int t, int r, int b) {
         //自定义布局
